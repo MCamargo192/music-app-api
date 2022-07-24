@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/user/favourites
+Authorization:  JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MDY0OThmNzAxMTAyYzAwMTVhNmI5ZTEiLCJ1c2VyTmFtZSI6InRlc3QiLCJpYXQiOjE2MTcyMDYzNDJ9.tDCKcp3LLRjpj5RIUi2pCmKGZ8wQ3IvE2XEEXmj7KpA
